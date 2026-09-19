@@ -20,7 +20,7 @@ const agents: AgentEntry[] = [
   },
   {
     name: "Claude Code",
-    url: "https://code.claude.com/docs/en/memory#agents-md",
+    url: "https://code.claude.com/",
     from: "Anthropic",
     imageSrc: "/logos/claude-code.svg",
   },
