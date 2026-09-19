@@ -19,6 +19,12 @@ const agents: AgentEntry[] = [
     imageSrc: "/logos/codex.svg",
   },
   {
+    name: "Claude Code",
+    url: "https://code.claude.com/docs/en/memory#agents-md",
+    from: "Anthropic",
+    imageSrc: "/logos/claude-code.svg",
+  },
+  {
     name: "Amp",
     url: "https://ampcode.com",
     imageSrc: "/logos/amp.svg",
